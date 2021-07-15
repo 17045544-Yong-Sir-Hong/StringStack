@@ -31,7 +31,7 @@ public class MyStringStack {
 		// TODO Auto-generated method stub
 		
 		String s1 = "Hello";
-		String s2 = "World!";
+		String s2 = "Class!";
 		MyStringStack stack = new MyStringStack();
 		System.out.println(stack.isEmpty());
 		stack.push(s1);
